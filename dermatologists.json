@@ -1,0 +1,2594 @@
+{
+    "consultants": [
+        {
+            "id": 36013,
+            "name": "Mr Abdullah Moktar",
+            "firstName": "Abdullah",
+            "lastName": "Moktar",
+            "town": null,
+            "county": null,
+            "imc": "100019",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                394,
+                452
+            ],
+            "hospitalCounties": [
+                "Dublin 24",
+                "Dublin 18"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72063,
+            "name": "Dr Aine Kelly",
+            "firstName": "Aine",
+            "lastName": "Kelly",
+            "town": null,
+            "county": null,
+            "imc": "409262",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                11
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70846,
+            "name": "Dr Aisling Ryan",
+            "firstName": "Aisling",
+            "lastName": "Ryan",
+            "town": null,
+            "county": null,
+            "imc": "222755",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                183
+            ],
+            "hospitalCounties": [
+                "Dublin 4"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39442,
+            "name": "Dr Aizuri Murad",
+            "firstName": "Aizuri",
+            "lastName": "Murad ",
+            "town": null,
+            "county": null,
+            "imc": "297875",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                84,
+                506,
+                384,
+                85,
+                452,
+                407
+            ],
+            "hospitalCounties": [
+                "Westmeath",
+                "Dublin 18",
+                "Dublin 7",
+                "Co Louth",
+                "Co Westmeath"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71381,
+            "name": "Dr Aizuri Murad Skin and Hair Clinic Ltd",
+            "firstName": "Aizuri",
+            "lastName": "Murad Skin and Hair Clinic Ltd",
+            "town": null,
+            "county": null,
+            "imc": "297875",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                85,
+                452,
+                457
+            ],
+            "hospitalCounties": [
+                "Dublin 18",
+                "Dublin 16",
+                "Dublin 7"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70829,
+            "name": "Dr Alana Durack",
+            "firstName": "Alana",
+            "lastName": "Durack",
+            "town": null,
+            "county": null,
+            "imc": "430502",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                890,
+                199
+            ],
+            "hospitalCounties": [
+                "Waterford",
+                "Co Waterford"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70320,
+            "name": "Prof Alan Irvine ADI Dermatology",
+            "firstName": "Alan",
+            "lastName": "Irvine ADI Dermatology",
+            "town": null,
+            "county": null,
+            "imc": "115037",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                157,
+                115,
+                449
+            ],
+            "hospitalCounties": [
+                "Dublin 20",
+                "Dublin 8",
+                "Dublin 12"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 38715,
+            "name": "Dr Alan Irvine Consulting Ltd",
+            "firstName": "Alan",
+            "lastName": "Irvine Consulting Ltd",
+            "town": null,
+            "county": null,
+            "imc": "115037",
+            "participating": "N",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                157
+            ],
+            "hospitalCounties": [
+                "Dublin 8"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70257,
+            "name": "Dr Ali Alsharqi",
+            "firstName": "Ali",
+            "lastName": "Alsharqi",
+            "town": null,
+            "county": null,
+            "imc": "421285",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                183
+            ],
+            "hospitalCounties": [
+                "Dublin 4"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70877,
+            "name": "Dr Angela Alani",
+            "firstName": "Angela",
+            "lastName": "Alani",
+            "town": null,
+            "county": null,
+            "imc": "269073",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                84,
+                380
+            ],
+            "hospitalCounties": [
+                "Dublin 7",
+                "Co Westmeath"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70030,
+            "name": "Dr Ann R Boyapati",
+            "firstName": "Ann",
+            "lastName": "Boyapati",
+            "town": null,
+            "county": null,
+            "imc": "417910",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                133
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37865,
+            "name": "Dr Anne-Marie Tobin",
+            "firstName": "Anne-Marie",
+            "lastName": "Tobin",
+            "town": null,
+            "county": null,
+            "imc": "23735",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                394,
+                97
+            ],
+            "hospitalCounties": [
+                "Dublin 24",
+                "Co Kildare"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39075,
+            "name": "Dr Annette Murphy",
+            "firstName": "Annette",
+            "lastName": "Murphy",
+            "town": null,
+            "county": null,
+            "imc": "010002",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                195,
+                118
+            ],
+            "hospitalCounties": [
+                "Co Galway",
+                "Galway"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39068,
+            "name": "Dr Asad Salim",
+            "firstName": "Asad",
+            "lastName": "Salim",
+            "town": null,
+            "county": null,
+            "imc": "014791",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                394
+            ],
+            "hospitalCounties": [
+                "Dublin 24"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39408,
+            "name": "Dr Asad Salim Salim Skin Limited",
+            "firstName": "Asad",
+            "lastName": "Salim Salim Skin Limited ",
+            "town": null,
+            "county": null,
+            "imc": "14791",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                394,
+                97,
+                449
+            ],
+            "hospitalCounties": [
+                "Co Kildare",
+                "Dublin 20",
+                "Dublin 24"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 38167,
+            "name": "Dr Bairbre Wynne",
+            "firstName": "Bairbre",
+            "lastName": "Wynne",
+            "town": null,
+            "county": null,
+            "imc": "021442",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                380,
+                157
+            ],
+            "hospitalCounties": [
+                "Co Westmeath",
+                "Dublin 8"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 30277,
+            "name": "Dr Bart Ramsay",
+            "firstName": "Bart",
+            "lastName": "Ramsay",
+            "town": null,
+            "county": null,
+            "imc": "008778",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                76,
+                159
+            ],
+            "hospitalCounties": [
+                "Limerick",
+                "Co Limerick"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70255,
+            "name": "Dr Benvon M Moran",
+            "firstName": "Benvon",
+            "lastName": "Moran",
+            "town": null,
+            "county": null,
+            "imc": "222379",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                157
+            ],
+            "hospitalCounties": [
+                "Dublin 8"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 38834,
+            "name": "Dr Blaithin Moriarty",
+            "firstName": "Blaithin",
+            "lastName": "Moriarty",
+            "town": null,
+            "county": null,
+            "imc": "247137",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                184,
+                183,
+                168
+            ],
+            "hospitalCounties": [
+                "Kilkenny",
+                "Co Kilkenny",
+                "Dublin 4"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 34971,
+            "name": "Prof Brian Kirby",
+            "firstName": "Brian",
+            "lastName": "Kirby",
+            "town": null,
+            "county": null,
+            "imc": "163070",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                183,
+                184
+            ],
+            "hospitalCounties": [
+                "Dublin 4"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 30273,
+            "name": "Dr Brigid O'Connell",
+            "firstName": "Brigid",
+            "lastName": "O'Connell",
+            "town": null,
+            "county": null,
+            "imc": "007651",
+            "participating": "N",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                14
+            ],
+            "hospitalCounties": [
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37915,
+            "name": "Dr Caitriona Hackett",
+            "firstName": "Caitriona",
+            "lastName": "Hackett",
+            "town": null,
+            "county": null,
+            "imc": "58808",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                76,
+                60,
+                101
+            ],
+            "hospitalCounties": [
+                "Co Limerick",
+                "Co Clare",
+                "Co Tipperary",
+                "Limerick"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39192,
+            "name": "Dr Caitriona Ryan",
+            "firstName": "Caitriona",
+            "lastName": "Ryan",
+            "town": null,
+            "county": null,
+            "imc": "226784",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                184,
+                183,
+                9,
+                449
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin",
+                "Dublin 20",
+                "Dublin 4"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39773,
+            "name": "Prof Caitriona Ryan Dermatology Unlimited",
+            "firstName": "Caitriona",
+            "lastName": "Ryan Dermatology Unlimited",
+            "town": null,
+            "county": null,
+            "imc": "226784",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9,
+                449
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin",
+                "Dublin 20"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 33929,
+            "name": "Dr Cal A Condon",
+            "firstName": "Cal",
+            "lastName": "Condon",
+            "town": null,
+            "county": null,
+            "imc": "012645",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9,
+                14,
+                405
+            ],
+            "hospitalCounties": [
+                "Dublin 9",
+                "Co Dublin",
+                "Dublin",
+                "Co Kildare"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70500,
+            "name": "Dr Callaghan Condon Dermatology Matters Ltd",
+            "firstName": "Callaghan",
+            "lastName": "Condon Dermatology Matters Ltd",
+            "town": null,
+            "county": null,
+            "imc": "012645",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9,
+                405
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin",
+                "Co Kildare"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71740,
+            "name": "Dr Caoimhe Fahy",
+            "firstName": "Caoimhe",
+            "lastName": "Fahy",
+            "town": null,
+            "county": null,
+            "imc": "182633",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                11
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70162,
+            "name": "Dr Catherine Foley",
+            "firstName": "Catherine",
+            "lastName": "Foley",
+            "town": null,
+            "county": null,
+            "imc": "328211",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                452
+            ],
+            "hospitalCounties": [
+                "Dublin 18"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71011,
+            "name": "Dr Catherine Foley Foley Dermatology Limited",
+            "firstName": "Catherine",
+            "lastName": "Foley Foley Dermatology Limited",
+            "town": null,
+            "county": null,
+            "imc": "328211",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                452
+            ],
+            "hospitalCounties": [
+                "Dublin 18"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37874,
+            "name": "Dr Catherine M. Gleeson",
+            "firstName": "Catherine",
+            "lastName": "Gleeson",
+            "town": null,
+            "county": null,
+            "imc": "401102",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                133,
+                35
+            ],
+            "hospitalCounties": [
+                "Cork",
+                "Co Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70536,
+            "name": "Dr Catherine Quinlan",
+            "firstName": "Catherine",
+            "lastName": "Quinlan",
+            "town": null,
+            "county": null,
+            "imc": "357437",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                133
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71934,
+            "name": "Dr Claire Reid",
+            "firstName": "Claire",
+            "lastName": "Reid",
+            "town": null,
+            "county": null,
+            "imc": "355860",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                195
+            ],
+            "hospitalCounties": [
+                "Co Galway",
+                "Galway"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 33835,
+            "name": "Dr Colin Buckley - Medepellis Ltd.",
+            "firstName": "Colin",
+            "lastName": "Buckley - Medepellis Ltd.",
+            "town": null,
+            "county": null,
+            "imc": "000409",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                422,
+                890
+            ],
+            "hospitalCounties": [
+                "Waterford",
+                "Co Kilkenny"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35144,
+            "name": "Dr Dermot McKenna",
+            "firstName": "Dermot",
+            "lastName": "McKenna",
+            "town": null,
+            "county": null,
+            "imc": "13366",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                75,
+                129,
+                424
+            ],
+            "hospitalCounties": [
+                "Donegal",
+                "Co Leitrim",
+                "Co Donegal",
+                "Co Sligo"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72185,
+            "name": "Dr Dermot McKenna Sligo Private Dermatology Ltd",
+            "firstName": "Dermot",
+            "lastName": "McKenna Sligo Private Dermatology Ltd",
+            "town": null,
+            "county": null,
+            "imc": "13366",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                129,
+                75
+            ],
+            "hospitalCounties": [
+                "Co Donegal",
+                "Donegal",
+                "Co Sligo"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39481,
+            "name": "Dr Dmitri R Wall",
+            "firstName": "Dmitri",
+            "lastName": "Wall",
+            "town": null,
+            "county": null,
+            "imc": "226864",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                157
+            ],
+            "hospitalCounties": [
+                "Dublin 8"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72198,
+            "name": "Dr Donna Cummins Elixir Health Limited",
+            "firstName": "Donna",
+            "lastName": "Cummins Elixir Health Limited",
+            "town": null,
+            "county": null,
+            "imc": "403352",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70980,
+            "name": "Dr Eimear O'Brennan EOB Dermatology Limited",
+            "firstName": "Eimear",
+            "lastName": "O'Brennan EOB Dermatology Limited",
+            "town": null,
+            "county": null,
+            "imc": "411805",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                506,
+                405
+            ],
+            "hospitalCounties": [
+                "Westmeath",
+                "Co Kildare"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70185,
+            "name": "Dr Eleanor Higgins",
+            "firstName": "Eleanor",
+            "lastName": "Higgins",
+            "town": null,
+            "county": null,
+            "imc": "269379",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71288,
+            "name": "Dr Eleanor Higgins Unlimited Company",
+            "firstName": "Eleanor",
+            "lastName": "Higgins Unlimited Company",
+            "town": null,
+            "county": null,
+            "imc": "269379",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72022,
+            "name": "Dr Emma Tierney Dermatology Limited",
+            "firstName": "Emma",
+            "lastName": "Tierney Dermatology Limited",
+            "town": null,
+            "county": null,
+            "imc": "414111",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9,
+                452
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Co Dublin",
+                "Dublin 18"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70136,
+            "name": "Dr Eoin Storan",
+            "firstName": "Eoin",
+            "lastName": "Storan",
+            "town": null,
+            "county": null,
+            "imc": "297604",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                84
+            ],
+            "hospitalCounties": [
+                "Dublin 7"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37857,
+            "name": "Dr Fergal Moloney",
+            "firstName": "Fergal",
+            "lastName": "Moloney",
+            "town": null,
+            "county": null,
+            "imc": "20016",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                74,
+                84
+            ],
+            "hospitalCounties": [
+                "Dublin 7",
+                "Co Dublin",
+                "Dublin 15"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39040,
+            "name": "Dr Fiona  Browne",
+            "firstName": "Fiona ",
+            "lastName": "Browne",
+            "town": null,
+            "county": null,
+            "imc": "412202",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                186,
+                157,
+                115
+            ],
+            "hospitalCounties": [
+                "Dublin 8",
+                "Dublin 1",
+                "Dublin 12"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35068,
+            "name": "Dr Fiona Keane",
+            "firstName": "Fiona",
+            "lastName": "Keane",
+            "town": null,
+            "county": null,
+            "imc": "016367",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                6,
+                14,
+                405,
+                85
+            ],
+            "hospitalCounties": [
+                "Dublin 9",
+                "Co Kildare",
+                "Dublin 7"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70272,
+            "name": "Dr Fiona Keane Earlsfort Dermatology Limited",
+            "firstName": "Fiona",
+            "lastName": "Keane Earlsfort Dermatology Limited",
+            "town": null,
+            "county": null,
+            "imc": "16367",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                14,
+                85
+            ],
+            "hospitalCounties": [
+                "Dublin 7",
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 30276,
+            "name": "Dr Frank C Powell",
+            "firstName": "Frank",
+            "lastName": "Powell",
+            "town": null,
+            "county": null,
+            "imc": "008460",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                14
+            ],
+            "hospitalCounties": [
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70972,
+            "name": "Dr Genevieve Kelly",
+            "firstName": "Genevieve",
+            "lastName": "Kelly",
+            "town": null,
+            "county": null,
+            "imc": "024057",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 30271,
+            "name": "Dr Geraldine M Morrow",
+            "firstName": "Geraldine",
+            "lastName": "Morrow",
+            "town": null,
+            "county": null,
+            "imc": "009981",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                94,
+                390,
+                452
+            ],
+            "hospitalCounties": [
+                "Dublin 14",
+                "Dublin 18",
+                "Co Kilkenny"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35260,
+            "name": "Dr Gillian E. Gibson - Gibson O'Connor Dermatologists",
+            "firstName": "Gillian",
+            "lastName": "Gibson - Gibson O'Connor Dermatologists",
+            "town": null,
+            "county": null,
+            "imc": "011884",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                11
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 30272,
+            "name": "Dr Gillian M Murphy",
+            "firstName": "Gillian",
+            "lastName": "Murphy",
+            "town": null,
+            "county": null,
+            "imc": "015078",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology, Internal Medicine",
+            "hospitals": [
+                6,
+                80,
+                84,
+                384,
+                423
+            ],
+            "hospitalCounties": [
+                "Dublin 7",
+                "Co Louth",
+                "Dublin 9",
+                "Dublin 5"
+            ],
+            "specialities": [
+                "DERM",
+                "INTM"
+            ]
+        },
+        {
+            "id": 70691,
+            "name": "Dr Ian McDonald",
+            "firstName": "Ian",
+            "lastName": "McDonald",
+            "town": null,
+            "county": null,
+            "imc": "023968",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                452,
+                64,
+                85
+            ],
+            "hospitalCounties": [
+                "Dublin 18",
+                "Dublin 7",
+                "Co Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71643,
+            "name": "Dr Isabel Haugh",
+            "firstName": "Isabel",
+            "lastName": "Haugh",
+            "town": null,
+            "county": null,
+            "imc": "409261",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72137,
+            "name": "Dr Isabel Haugh Ht Medical Limited",
+            "firstName": "Isabel",
+            "lastName": "Haugh Ht Medical Limited",
+            "town": null,
+            "county": null,
+            "imc": "409261",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37340,
+            "name": "Dr Jane Barry",
+            "firstName": "Jane",
+            "lastName": "Barry",
+            "town": null,
+            "county": null,
+            "imc": "22464",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                449
+            ],
+            "hospitalCounties": [
+                "Dublin 20"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 33816,
+            "name": "Dr John F. Bourke",
+            "firstName": "John",
+            "lastName": "Bourke",
+            "town": null,
+            "county": null,
+            "imc": "11107",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                35,
+                133
+            ],
+            "hospitalCounties": [
+                "Cork",
+                "Co Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37051,
+            "name": "Dr Julian M. Handley",
+            "firstName": "Julian",
+            "lastName": "Handley",
+            "town": null,
+            "county": null,
+            "imc": null,
+            "participating": "N",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [],
+            "hospitalCounties": [],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71071,
+            "name": "Dr Karen Eustace",
+            "firstName": "Karen",
+            "lastName": "Eustace",
+            "town": null,
+            "county": null,
+            "imc": "301955",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                6,
+                74
+            ],
+            "hospitalCounties": [
+                "Dublin 9",
+                "Dublin 15",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37962,
+            "name": "Dr Kashif Ahmad",
+            "firstName": "Kashif",
+            "lastName": "Ahmad",
+            "town": null,
+            "county": null,
+            "imc": "21974",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                76,
+                101,
+                60,
+                403
+            ],
+            "hospitalCounties": [
+                "Co Limerick",
+                "Limerick",
+                "Co Tipperary",
+                "Co Clare"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72167,
+            "name": "Dr Kate Lawlor",
+            "firstName": "Kate",
+            "lastName": "Lawlor",
+            "town": null,
+            "county": null,
+            "imc": "411274",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                12
+            ],
+            "hospitalCounties": [
+                "Co Kerry"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71284,
+            "name": "Dr Kevin Molloy",
+            "firstName": "Kevin",
+            "lastName": "Molloy",
+            "town": null,
+            "county": null,
+            "imc": "334406",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                394,
+                119
+            ],
+            "hospitalCounties": [
+                "Dublin 24",
+                "Co Laois"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35670,
+            "name": "Dr Lesley-Ann M Murphy",
+            "firstName": "Lesley-Ann",
+            "lastName": "Murphy",
+            "town": null,
+            "county": null,
+            "imc": "18203",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                191,
+                11,
+                133
+            ],
+            "hospitalCounties": [
+                "Cork",
+                "Co Kerry"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71371,
+            "name": "Dr Lesley-Ann Murphy Ltd",
+            "firstName": "Lesley-Ann",
+            "lastName": "Murphy Ltd",
+            "town": null,
+            "county": null,
+            "imc": "18203",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                133,
+                35
+            ],
+            "hospitalCounties": [
+                "Co Cork",
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71423,
+            "name": "Dr Lisa M Roche",
+            "firstName": "Lisa",
+            "lastName": "Roche",
+            "town": null,
+            "county": null,
+            "imc": "403410",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                133
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39656,
+            "name": "Dr Lorraine Jennings",
+            "firstName": "Lorraine",
+            "lastName": "Jennings",
+            "town": null,
+            "county": null,
+            "imc": "220837",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                14,
+                85
+            ],
+            "hospitalCounties": [
+                "Dublin 7",
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71930,
+            "name": "Dr Lorraine Jennings LMJ Dermatology Ltd",
+            "firstName": "Lorraine",
+            "lastName": "Jennings LMJ Dermatology Ltd",
+            "town": null,
+            "county": null,
+            "imc": "220837",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                14,
+                85
+            ],
+            "hospitalCounties": [
+                "Dublin 7",
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39123,
+            "name": "Dr Maeve Lynch",
+            "firstName": "Maeve",
+            "lastName": "Lynch",
+            "town": null,
+            "county": null,
+            "imc": "221035",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                76,
+                60,
+                101,
+                159
+            ],
+            "hospitalCounties": [
+                "Co Tipperary",
+                "Limerick",
+                "Co Clare",
+                "Co Limerick"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71296,
+            "name": "Dr Maeve McAleer Med Informatics Limited",
+            "firstName": "Maeve",
+            "lastName": "McAleer Med Informatics Limited",
+            "town": null,
+            "county": null,
+            "imc": "234171",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                115,
+                157
+            ],
+            "hospitalCounties": [
+                "Dublin 12",
+                "Dublin 8"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 38405,
+            "name": "Dr Marina M. O'Kane",
+            "firstName": "Marina",
+            "lastName": "O'Kane",
+            "town": null,
+            "county": null,
+            "imc": "23433",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                6,
+                74
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin 9",
+                "Dublin 15"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 38550,
+            "name": "Dr Mary F. Bennett",
+            "firstName": "Mary",
+            "lastName": "Bennett",
+            "town": null,
+            "county": null,
+            "imc": "22848",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                133
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39002,
+            "name": "Dr Mary Garvey Western Dermatology",
+            "firstName": "Mary",
+            "lastName": "Garvey Western Dermatology",
+            "town": null,
+            "county": null,
+            "imc": "005049",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                62,
+                395
+            ],
+            "hospitalCounties": [
+                "Co Clare",
+                "Co Galway"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 38317,
+            "name": "Dr Mary E. Laing",
+            "firstName": "Mary",
+            "lastName": "Laing",
+            "town": null,
+            "county": null,
+            "imc": "68340",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                195
+            ],
+            "hospitalCounties": [
+                "Galway",
+                "Co Galway"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 36318,
+            "name": "Dr Maureen  Connolly",
+            "firstName": "Maureen ",
+            "lastName": "Connolly",
+            "town": null,
+            "county": null,
+            "imc": "15610",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                394
+            ],
+            "hospitalCounties": [
+                "Dublin 24"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37656,
+            "name": "Dr Michael O'Connell",
+            "firstName": "Michael",
+            "lastName": "O'Connell",
+            "town": null,
+            "county": null,
+            "imc": "401288",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                35,
+                91,
+                133,
+                199
+            ],
+            "hospitalCounties": [
+                "Waterford",
+                "Cork",
+                "Co Waterford",
+                "Co Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 34724,
+            "name": "Dr Michelle N Murphy",
+            "firstName": "Michelle",
+            "lastName": "Murphy",
+            "town": null,
+            "county": null,
+            "imc": "017259",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                133
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70251,
+            "name": "Dr Miriam Fitzgerald",
+            "firstName": "Miriam",
+            "lastName": "Fitzgerald",
+            "town": null,
+            "county": null,
+            "imc": "400261",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                85,
+                452
+            ],
+            "hospitalCounties": [
+                "Dublin 7",
+                "Dublin 18"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 38529,
+            "name": "Dr Muireann Roche",
+            "firstName": "Muireann",
+            "lastName": "Roche",
+            "town": null,
+            "county": null,
+            "imc": "021414",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                6,
+                14
+            ],
+            "hospitalCounties": [
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71114,
+            "name": "Dr Muriel N Sadlier",
+            "firstName": "Muriel",
+            "lastName": "Sadlier",
+            "town": null,
+            "county": null,
+            "imc": "303862",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                11
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71943,
+            "name": "Dr Muriel Sadlier Lee Clinic Dermatology",
+            "firstName": "Muriel",
+            "lastName": "Sadlier Lee Clinic Dermatology",
+            "town": null,
+            "county": null,
+            "imc": "303862",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                11
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72107,
+            "name": "Dr Niamh Byrne",
+            "firstName": "Niamh",
+            "lastName": "Byrne",
+            "town": null,
+            "county": null,
+            "imc": "357642",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 30280,
+            "name": "Dr Nicholas Walsh",
+            "firstName": "Nicholas",
+            "lastName": "Walsh",
+            "town": null,
+            "county": null,
+            "imc": "000881",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                14,
+                94,
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Dublin 14",
+                "Co Dublin",
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72197,
+            "name": "Dr Nick Collier Elixir Health Limited",
+            "firstName": "Nick",
+            "lastName": "Collier Elixir Health Limited",
+            "town": null,
+            "county": null,
+            "imc": "525423",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 38604,
+            "name": "Dr Nicola E. Ralph",
+            "firstName": "Nicola",
+            "lastName": "Ralph",
+            "town": null,
+            "county": null,
+            "imc": "224800",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                84,
+                85,
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin 7",
+                "Co Dublin",
+                "Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39803,
+            "name": "Dr Nicola Ralph Dermatology Unlimited",
+            "firstName": "Nicola",
+            "lastName": "Ralph Dermatology Unlimited",
+            "town": null,
+            "county": null,
+            "imc": "224800",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                85,
+                84,
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Dublin 7",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71038,
+            "name": "Dr Oonagh E Molloy",
+            "firstName": "Oonagh",
+            "lastName": "Molloy",
+            "town": null,
+            "county": null,
+            "imc": "023756",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                11
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72002,
+            "name": "Dr Oonagh Molloy OMDermatology Ltd",
+            "firstName": "Oonagh",
+            "lastName": "Molloy OMDermatology Ltd",
+            "town": null,
+            "county": null,
+            "imc": "023756",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                11
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37153,
+            "name": "Dr Pamela M. McHenry",
+            "firstName": "Pamela",
+            "lastName": "McHenry",
+            "town": null,
+            "county": null,
+            "imc": "3055515",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                418
+            ],
+            "hospitalCounties": [
+                "Co Antrim"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35634,
+            "name": "Dr Patricia E Lenane",
+            "firstName": "Patricia",
+            "lastName": "Lenane",
+            "town": null,
+            "county": null,
+            "imc": "17504",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                199,
+                202,
+                84,
+                186
+            ],
+            "hospitalCounties": [
+                "Waterford",
+                "Dublin 1",
+                "Co Wexford",
+                "Dublin 7",
+                "Co Waterford"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 34776,
+            "name": "Dr Patricia Podmore",
+            "firstName": "Patricia",
+            "lastName": "Podmore",
+            "town": null,
+            "county": null,
+            "imc": "001418",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                75
+            ],
+            "hospitalCounties": [
+                "Co Donegal",
+                "Donegal"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35814,
+            "name": "Dr Patrick  Ormond",
+            "firstName": "Patrick ",
+            "lastName": "Ormond",
+            "town": null,
+            "county": null,
+            "imc": "17396",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                157,
+                875
+            ],
+            "hospitalCounties": [
+                "Dublin 8",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 33736,
+            "name": "Dr Paul Collins",
+            "firstName": "Paul",
+            "lastName": "Collins",
+            "town": null,
+            "county": null,
+            "imc": "009587",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                173,
+                184,
+                183
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin 4",
+                "Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 33804,
+            "name": "Dr Pauline A Marren",
+            "firstName": "Pauline",
+            "lastName": "Marren",
+            "town": null,
+            "county": null,
+            "imc": "00229",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                195
+            ],
+            "hospitalCounties": [
+                "Co Galway",
+                "Galway"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70725,
+            "name": "Dr Richard Watchorn",
+            "firstName": "Richard",
+            "lastName": "Watchorn",
+            "town": null,
+            "county": null,
+            "imc": "363553",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                452,
+                6,
+                74,
+                14
+            ],
+            "hospitalCounties": [
+                "Dublin 18",
+                "Dublin 15",
+                "Dublin 9",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71921,
+            "name": "Dr Roisin Hambly",
+            "firstName": "Roisin",
+            "lastName": "Hambly",
+            "town": null,
+            "county": null,
+            "imc": "296860",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72157,
+            "name": "Dr Ronan Brennan",
+            "firstName": "Ronan",
+            "lastName": "Brennan",
+            "town": null,
+            "county": null,
+            "imc": "403149",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                195,
+                118
+            ],
+            "hospitalCounties": [
+                "Galway",
+                "Co Galway"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39139,
+            "name": "Dr Rosalind Hughes",
+            "firstName": "Rosalind",
+            "lastName": "Hughes",
+            "town": null,
+            "county": null,
+            "imc": "128491",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                183,
+                184,
+                9
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin",
+                "Dublin 4"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70680,
+            "name": "Dr Rosalind Hughes RH Dermatology",
+            "firstName": "Rosalind",
+            "lastName": "Hughes RH Dermatology",
+            "town": null,
+            "county": null,
+            "imc": "128491",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                184,
+                183,
+                9
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin 4",
+                "Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 33657,
+            "name": "Dr Rosemary Coleman",
+            "firstName": "Rosemary",
+            "lastName": "Coleman",
+            "town": null,
+            "county": null,
+            "imc": "001463",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                94,
+                9
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin 14",
+                "Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 72084,
+            "name": "Dr Rosemary Coleman Coleman Skincare Ltd",
+            "firstName": "Rosemary",
+            "lastName": "Coleman Coleman Skincare Ltd",
+            "town": null,
+            "county": null,
+            "imc": "001463",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9
+            ],
+            "hospitalCounties": [
+                "Dublin",
+                "Co Dublin"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39416,
+            "name": "Dr Sally  J. O'Shea",
+            "firstName": "Sally ",
+            "lastName": "O'Shea",
+            "town": null,
+            "county": null,
+            "imc": "277700",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                133,
+                35
+            ],
+            "hospitalCounties": [
+                "Co Cork",
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 37072,
+            "name": "Dr Sandra Kirke",
+            "firstName": "Sandra",
+            "lastName": "Kirke",
+            "town": null,
+            "county": null,
+            "imc": "22426",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                14,
+                875
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70741,
+            "name": "Dr Sandra Kirke Dermatology Limited",
+            "firstName": "Sandra",
+            "lastName": "Kirke Dermatology Limited",
+            "town": null,
+            "county": null,
+            "imc": "022426",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                449,
+                14
+            ],
+            "hospitalCounties": [
+                "Dublin 20",
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39330,
+            "name": "Dr Saroj Verma",
+            "firstName": "Saroj",
+            "lastName": "Verma",
+            "town": null,
+            "county": null,
+            "imc": "226795",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                449
+            ],
+            "hospitalCounties": [
+                "Dublin 20"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35535,
+            "name": "Dr Sean B.F Trapp",
+            "firstName": "Sean",
+            "lastName": "Trapp",
+            "town": null,
+            "county": null,
+            "imc": "009220",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [],
+            "hospitalCounties": [],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71035,
+            "name": "Dr Sharaheh Ahmadi Caspian Medical",
+            "firstName": "Sharaheh",
+            "lastName": "Ahmadi Caspian Medical",
+            "town": null,
+            "county": null,
+            "imc": "019437",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                452
+            ],
+            "hospitalCounties": [
+                "Dublin 18"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35913,
+            "name": "Dr Sharareh Ahmadi",
+            "firstName": "Sharareh",
+            "lastName": "Ahmadi",
+            "town": null,
+            "county": null,
+            "imc": "019437",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                452
+            ],
+            "hospitalCounties": [
+                "Dublin 18"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35669,
+            "name": "Dr Sinead M Collins",
+            "firstName": "Sinead",
+            "lastName": "Collins",
+            "town": null,
+            "county": null,
+            "imc": "18447",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                20,
+                384
+            ],
+            "hospitalCounties": [
+                "Co Louth",
+                "Co Cavan"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 38264,
+            "name": "Dr Sinead M. Field",
+            "firstName": "Sinead",
+            "lastName": "Field",
+            "town": null,
+            "county": null,
+            "imc": "22479",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                199,
+                160,
+                168,
+                202,
+                76
+            ],
+            "hospitalCounties": [
+                "Kilkenny",
+                "Co Wexford",
+                "Limerick",
+                "Co Kilkenny",
+                "Co Limerick",
+                "Co Waterford",
+                "Waterford",
+                "Co Tipperary"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 39257,
+            "name": "Dr Siona C Ni Raghallaigh",
+            "firstName": "Siona",
+            "lastName": "Ni Raghallaigh",
+            "town": null,
+            "county": null,
+            "imc": "181673",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                6,
+                74,
+                14
+            ],
+            "hospitalCounties": [
+                "Co Dublin",
+                "Dublin 9",
+                "Dublin 15"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70031,
+            "name": "Dr Siona Ni Raghallaigh QNR Medical Services Ltd",
+            "firstName": "Siona",
+            "lastName": "Ni Raghallaigh QNR Medical Services Ltd",
+            "town": null,
+            "county": null,
+            "imc": "181673",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                14
+            ],
+            "hospitalCounties": [
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 71968,
+            "name": "Dr Stephanie Menzies",
+            "firstName": "Stephanie",
+            "lastName": "Menzies",
+            "town": null,
+            "county": null,
+            "imc": "402920",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                452
+            ],
+            "hospitalCounties": [
+                "Dublin 18"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 70387,
+            "name": "Dr Susan O'Gorman",
+            "firstName": "Susan",
+            "lastName": "O'Gorman",
+            "town": null,
+            "county": null,
+            "imc": "297513",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                157
+            ],
+            "hospitalCounties": [
+                "Dublin 8"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35147,
+            "name": "Dr Taj M. Shaikh - Smart Skin Ltd",
+            "firstName": "Taj",
+            "lastName": "Shaikh - Smart Skin Ltd",
+            "town": null,
+            "county": null,
+            "imc": "15586",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                409,
+                428,
+                445,
+                407,
+                506
+            ],
+            "hospitalCounties": [
+                "Dublin 12",
+                "Co Sligo",
+                "Co Westmeath",
+                "Co Galway",
+                "Westmeath"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 34653,
+            "name": "Dr Tony Egan",
+            "firstName": "Tony",
+            "lastName": "Egan",
+            "town": null,
+            "county": null,
+            "imc": "14453",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                6,
+                84,
+                384,
+                14
+            ],
+            "hospitalCounties": [
+                "Co Louth",
+                "Dublin 7",
+                "Dublin 9"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 35749,
+            "name": "Dr Trevor J Markham  Limited",
+            "firstName": "Trevor",
+            "lastName": "Markham  Limited",
+            "town": null,
+            "county": null,
+            "imc": "19233",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                195,
+                92,
+                428
+            ],
+            "hospitalCounties": [
+                "Co Galway",
+                "Galway"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 34040,
+            "name": "Ms Wendy A Lynch",
+            "firstName": "Wendy",
+            "lastName": "Lynch",
+            "town": null,
+            "county": null,
+            "imc": "012356",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                9,
+                407,
+                449,
+                506
+            ],
+            "hospitalCounties": [
+                "Westmeath",
+                "Co Dublin",
+                "Dublin",
+                "Co Westmeath",
+                "Dublin 20"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        },
+        {
+            "id": 34945,
+            "name": "Dr William J O'Connor For Gibson O'Connor Dermatologists",
+            "firstName": "William",
+            "lastName": "O'Connor For Gibson O'Connor Dermatologists",
+            "town": null,
+            "county": null,
+            "imc": "12476",
+            "participating": "Y",
+            "speciality_descriptions": "Dermatology",
+            "hospitals": [
+                11
+            ],
+            "hospitalCounties": [
+                "Cork"
+            ],
+            "specialities": [
+                "DERM"
+            ]
+        }
+    ]
+}
